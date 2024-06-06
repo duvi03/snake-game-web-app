@@ -1,16 +1,18 @@
-# snake_game
+# Snake Game Web App
 
-A new Flutter project.
+A simple Snake Game built using Flutter for the web.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This project implements the classic Snake Game using Flutter for web development. The game is played within a browser and utilizes keyboard input for controlling the snake's direction. The objective is to eat food pellets to grow the snake's length without colliding with the snake's body or the game boundaries.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Classic Snake Game mechanics.
+- Responsive design for web browsers.
+- Control snake direction using arrow keys.
+- Game over screen with option to restart.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request.
