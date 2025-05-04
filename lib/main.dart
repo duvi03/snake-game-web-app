@@ -101,7 +101,7 @@ class _SnakeGameViewState extends State<SnakeGameView> {
                     width: 300,
                     height: 250,
                     alignment: Alignment.center,
-                    padding: EdgeInsets.all(25),
+                    padding: const EdgeInsets.all(25),
                     decoration: BoxDecoration(
                       color: Colors.black.withOpacity(0.5),
                       borderRadius: BorderRadius.circular(25),
